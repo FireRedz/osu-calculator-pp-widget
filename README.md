@@ -11,3 +11,5 @@ or
  $ npm i
  $ npm start`
 ```
+
+[![Run on Repl.it](https://repl.it/badge/github/FireRedz/osu-calculator-pp-widget)](https://repl.it/github/FireRedz/osu-calculator-pp-widget)
